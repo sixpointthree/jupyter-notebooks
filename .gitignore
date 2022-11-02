@@ -132,3 +132,7 @@ ui-tests/playwright-report
 
 # Checkpoints
 .ipynb_checkpoints
+
+# Custom
+Advanced Data Mining/DASK/dask-worker-space/
+Advanced Data Mining/DASK/data
